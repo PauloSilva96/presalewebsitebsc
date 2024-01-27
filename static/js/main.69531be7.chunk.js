@@ -945,7 +945,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "EIYC"
+                                                    children: "ZORD"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
