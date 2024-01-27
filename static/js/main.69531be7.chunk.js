@@ -680,7 +680,7 @@
                                             color: "",
                                             fontSize: "30px"
                                         },
-                                        children: "Techaddict Coin Presale"
+                                        children: "MemeZord Token PreSale"
                                     }), Object(h.jsx)("h3", {
                                         
                                     }), ]
@@ -714,7 +714,7 @@
                                                 color: "#ffffff",
                                                 fontFamily: "Secular One",
                                                 textAlign: "center",
-                                                children: "Buy EIYE Coin"
+                                                children: "Buy Zord Coin"
                                             }), Object(h.jsxs)(u.a, {
                                                 mt: 2,
                                                 mb: 2,
@@ -854,7 +854,7 @@
                                                             height: "20px",
                                                             src: N,
                                                             alt: ""
-                                                        }), " ", "EYC"]
+                                                        }), " ", "Zord"]
                                                     })]
                                                 })]
                                             }), Object(h.jsx)(u.a, {
@@ -923,7 +923,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "EIYE Coin Token"
+                                                    children: "Zord Coin Token"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
@@ -1150,7 +1150,7 @@
                                                         href: ""
                                                     }), Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
-                                                            children: "EIYE Coin Website"
+                                                            children: "Zord Coin Website"
                                                         })
                                                     }), ". a prompt shows, choose network and click ", Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
@@ -1162,7 +1162,7 @@
                                                         children: "confirm."
                                                     })]
                                                 }), Object(h.jsx)("li", {
-                                                    children: "Once connected, enter the amount of EIYE Coin you want to buy with BNB "
+                                                    children: "Once connected, enter the amount of Zord Coin you want to buy with BNB "
                                                 })]
                                             })]
                                         })]
