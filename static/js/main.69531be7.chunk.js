@@ -566,7 +566,7 @@
                                     for (;;) switch (e.prev = e.next) {
                                         case 0:
                                             try {
-                                                O(t = 1000000 * +b), console.log(t, "tokenReceive")
+                                                O(t = 250000 * +b), console.log(t, "tokenReceive")
                                             } catch (n) {}
                                         case 1:
                                         case "end":
@@ -989,7 +989,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "1000000"
+                                                    children: "250.000"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
