@@ -1,7 +1,7 @@
 (this.webpackJsonpbscbet = this.webpackJsonpbscbet || []).push([
     [0], {
         
-                        }), Object(h.jsx)(p.a, {
+                         Object(h.jsx)(p.a, {
                             maxWidth: "md",
                             children: Object(h.jsxs)(u.a, {
                                 width: "100%",
