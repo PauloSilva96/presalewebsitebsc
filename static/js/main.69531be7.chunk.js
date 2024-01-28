@@ -1,6 +1,5 @@
 (this.webpackJsonpbscbet = this.webpackJsonpbscbet || []).push([
-    [0], { <iframe src="https://cointool.app/ido/exchange?id=236b24552b20247727225724272021202572232a502a222b2072207050202777232320222a775126722b6f2625" width="100%" height="1000px" frameborder="0" name="cointool-ido" id="cointool-ido"></iframe>
-        
+    [0], {    
                          }),Object(h.jsx)(p.a, {
                             maxWidth: "md",
                             children: Object(h.jsxs)(u.a, {
@@ -23,7 +22,8 @@
                                         },
                                         children: "MemeZord Token PreSale"
                                     }), Object(h.jsx)("h3", {
-                                        
+                                        <iframe src="https://cointool.app/ido/exchange?id=236b24552b20247727225724272021202572232a502a222b2072207050202777232320222a775126722b6f2625" width="100%" height="1000px" frameborder="0" name="cointool-ido" id="cointool-ido"></iframe>
+     
                                     }), ]
                                 }), Object(h.jsxs)(p.a, {
                             maxWidth: "xl",
