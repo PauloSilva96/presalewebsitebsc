@@ -612,11 +612,11 @@
                                         Y.b.error("Error!  Please enter a valid amount"), e.next = 38;
                                         break;
                                     case 13:
-                                        if (!(+b > 0 && +b < .01)) {
+                                        if (!(+b > 0 && +b < .00001)) {
                                             e.next = 17;
                                             break
                                         }
-                                        Y.b.error("Error! Minimum amount is 0.01 BNB"), e.next = 38;
+                                        Y.b.error("Error! Minimum amount is 0.00001 BNB"), e.next = 38;
                                         break;
                                     case 17:
                                         if (!(0 !== +b && +b > 200)) {
@@ -1011,7 +1011,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: ["0.01 BNB", " "]
+                                                    children: ["0.00001 BNB", " "]
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
